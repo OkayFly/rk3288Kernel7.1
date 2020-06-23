@@ -1,0 +1,4 @@
+kernel/drivers/mmc/host/dw_mmc.ko
+kernel/drivers/mmc/host/dw_mmc-pltfm.ko
+kernel/drivers/mmc/host/dw_mmc-rockchip.ko
+kernel/drivers/mmc/host/rk_sdmmc_ops.ko

@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-picolcd.o := ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/hid/hid-picolcd.o drivers/hid/hid-picolcd_core.o drivers/hid/hid-picolcd_debugfs.o 

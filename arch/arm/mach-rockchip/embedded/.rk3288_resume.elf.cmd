@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-rockchip/embedded/rk3288_resume.elf := ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -Bstatic -nostdlib -T arch/arm/mach-rockchip/embedded/rk3288_resume.lds arch/arm/mach-rockchip/embedded/rk3288_resume.o arch/arm/mach-rockchip/embedded/rk3288_ddr_resume.o -o arch/arm/mach-rockchip/embedded/rk3288_resume.elf

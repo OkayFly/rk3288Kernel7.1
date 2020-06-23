@@ -1,0 +1,1 @@
+cmd_security/optee_linuxdriver/armtz/optee_armtz.o := ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o security/optee_linuxdriver/armtz/optee_armtz.o security/optee_linuxdriver/armtz/tee_tz_drv.o security/optee_linuxdriver/armtz/tee_mem.o security/optee_linuxdriver/armtz/handle.o security/optee_linuxdriver/armtz/tee_smc-arm.o 

@@ -1,0 +1,1 @@
+cmd_drivers/input/sensors/psensor/built-in.o :=  ./../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld -EL    -r -o drivers/input/sensors/psensor/built-in.o drivers/input/sensors/psensor/ps_stk3410.o 

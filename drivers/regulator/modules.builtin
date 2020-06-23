@@ -1,0 +1,10 @@
+kernel/drivers/regulator/fixed.ko
+kernel/drivers/regulator/act8865-regulator.ko
+kernel/drivers/regulator/fan53555.ko
+kernel/drivers/regulator/lp8752.ko
+kernel/drivers/regulator/mp8865-regulator.ko
+kernel/drivers/regulator/pwm-regulator.ko
+kernel/drivers/regulator/rk808-regulator.ko
+kernel/drivers/regulator/rk818-regulator.ko
+kernel/drivers/regulator/syr82x.ko
+kernel/drivers/regulator/xz3216.ko

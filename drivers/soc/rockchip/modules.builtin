@@ -1,0 +1,2 @@
+kernel/drivers/soc/rockchip/sdmmc_vendor_storage.ko
+kernel/drivers/soc/rockchip/rk_camera.ko

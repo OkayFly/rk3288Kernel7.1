@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-rockchip/embedded/rk3288_resume.bin.o := ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-objcopy  -B arm -I binary -O elf32-littlearm arch/arm/mach-rockchip/embedded/rk3288_resume.bin arch/arm/mach-rockchip/embedded/rk3288_resume.bin.o

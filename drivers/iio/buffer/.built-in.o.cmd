@@ -1,0 +1,1 @@
+cmd_drivers/iio/buffer/built-in.o :=  ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/iio/buffer/built-in.o drivers/iio/buffer/industrialio-buffer-cb.o drivers/iio/buffer/kfifo_buf.o 

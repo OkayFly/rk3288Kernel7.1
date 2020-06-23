@@ -1,0 +1,1 @@
+cmd_drivers/gpu/arm/bifrost/bifrost_kbase.ko := ./../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/gpu/arm/bifrost/bifrost_kbase.ko drivers/gpu/arm/bifrost/bifrost_kbase.o drivers/gpu/arm/bifrost/bifrost_kbase.mod.o

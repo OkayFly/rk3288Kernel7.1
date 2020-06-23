@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid.o := ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/hid/hid.o drivers/hid/hid-core.o drivers/hid/hid-input.o drivers/hid/hid-debug.o drivers/hid/hidraw.o 

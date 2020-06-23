@@ -1,0 +1,1 @@
+cmd_drivers/thermal/built-in.o :=  ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/thermal/built-in.o drivers/thermal/thermal_sys.o drivers/thermal/rockchip_thermal.o drivers/thermal/rk3368_thermal.o drivers/thermal/rk_virtual_thermal.o drivers/thermal/samsung/built-in.o 

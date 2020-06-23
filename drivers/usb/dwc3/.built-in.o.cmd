@@ -1,0 +1,1 @@
+cmd_drivers/usb/dwc3/built-in.o :=  ./../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld -EL    -r -o drivers/usb/dwc3/built-in.o drivers/usb/dwc3/dwc3.o drivers/usb/dwc3/dwc3-of-simple.o drivers/usb/dwc3/dwc3-rockchip.o drivers/usb/dwc3/dwc3-rockchip-inno.o 

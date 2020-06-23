@@ -1,0 +1,1 @@
+cmd_drivers/nvmem/nvmem-rockchip-otp.o := ./../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld -EL    -r -o drivers/nvmem/nvmem-rockchip-otp.o drivers/nvmem/rockchip-otp.o 

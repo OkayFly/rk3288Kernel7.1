@@ -1,0 +1,1 @@
+cmd_net/netlink/built-in.o :=  ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o net/netlink/built-in.o net/netlink/af_netlink.o net/netlink/genetlink.o 

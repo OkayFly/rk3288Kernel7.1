@@ -1,0 +1,1 @@
+cmd_drivers/extcon/extcon-core.o := ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/extcon/extcon-core.o drivers/extcon/extcon.o drivers/extcon/devres.o 

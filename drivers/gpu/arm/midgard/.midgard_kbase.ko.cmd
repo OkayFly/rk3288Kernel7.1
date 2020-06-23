@@ -1,0 +1,1 @@
+cmd_drivers/gpu/arm/midgard/midgard_kbase.ko := ./../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/gpu/arm/midgard/midgard_kbase.ko drivers/gpu/arm/midgard/midgard_kbase.o drivers/gpu/arm/midgard/midgard_kbase.mod.o

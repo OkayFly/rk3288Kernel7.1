@@ -1,0 +1,1 @@
+cmd_drivers/media/i2c/built-in.o :=  ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/media/i2c/built-in.o drivers/media/i2c/soc_camera/built-in.o drivers/media/i2c/ir-kbd-i2c.o 

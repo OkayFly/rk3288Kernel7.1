@@ -1,0 +1,1 @@
+cmd_drivers/staging/iio/imu/inv_mpu/built-in.o :=  ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/staging/iio/imu/inv_mpu/built-in.o drivers/staging/iio/imu/inv_mpu/inv-mpu-iio.o 

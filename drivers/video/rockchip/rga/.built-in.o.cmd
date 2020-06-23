@@ -1,0 +1,1 @@
+cmd_drivers/video/rockchip/rga/built-in.o :=  ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/video/rockchip/rga/built-in.o drivers/video/rockchip/rga/rga.o 

@@ -1,0 +1,1 @@
+cmd_drivers/tee/tee.o := ./../prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld -EL    -r -o drivers/tee/tee.o drivers/tee/tee_core.o drivers/tee/tee_shm.o drivers/tee/tee_shm_pool.o 

@@ -1,0 +1,1 @@
+cmd_security/optee_linuxdriver/core/built-in.o :=  ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o security/optee_linuxdriver/core/built-in.o security/optee_linuxdriver/core/optee_v1.o 

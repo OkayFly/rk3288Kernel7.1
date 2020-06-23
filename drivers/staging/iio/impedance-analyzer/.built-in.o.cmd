@@ -1,0 +1,1 @@
+cmd_drivers/staging/iio/impedance-analyzer/built-in.o :=  rm -f drivers/staging/iio/impedance-analyzer/built-in.o; ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ar rcsD drivers/staging/iio/impedance-analyzer/built-in.o

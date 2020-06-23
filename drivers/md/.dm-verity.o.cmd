@@ -1,0 +1,1 @@
+cmd_drivers/md/dm-verity.o := ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/md/dm-verity.o drivers/md/dm-verity-fec.o drivers/md/dm-verity-target.o 

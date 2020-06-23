@@ -1,0 +1,8 @@
+kernel/drivers/video/rockchip/vpu/mpp_service.ko
+kernel/drivers/video/rockchip/vpu/mpp_dev_rkvenc.ko
+kernel/drivers/video/rockchip/vpu/mpp_dev_vepu.ko
+kernel/drivers/video/rockchip/vpu/mpp_dev_h265e.ko
+kernel/drivers/video/rockchip/vpu/mpp_dev_common.ko
+kernel/drivers/video/rockchip/vpu/vpu_iommu_drm.ko
+kernel/drivers/video/rockchip/vpu/vpu_iommu_ion.ko
+kernel/drivers/video/rockchip/vpu/vpu_iommu_ops.ko

@@ -1,0 +1,1 @@
+cmd_crypto/jitterentropy_rng.o := ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o crypto/jitterentropy_rng.o crypto/jitterentropy.o crypto/jitterentropy-kcapi.o 

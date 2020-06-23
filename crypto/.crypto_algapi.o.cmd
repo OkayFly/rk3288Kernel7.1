@@ -1,0 +1,1 @@
+cmd_crypto/crypto_algapi.o := ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o crypto/crypto_algapi.o crypto/algapi.o crypto/scatterwalk.o crypto/proc.o 

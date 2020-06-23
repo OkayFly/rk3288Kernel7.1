@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/rockchip_wlan/rtl8188fu/8188fu.ko := ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/wireless/rockchip_wlan/rtl8188fu/8188fu.ko drivers/net/wireless/rockchip_wlan/rtl8188fu/8188fu.o drivers/net/wireless/rockchip_wlan/rtl8188fu/8188fu.mod.o

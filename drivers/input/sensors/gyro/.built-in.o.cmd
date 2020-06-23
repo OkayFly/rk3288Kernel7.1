@@ -1,0 +1,1 @@
+cmd_drivers/input/sensors/gyro/built-in.o :=  ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/input/sensors/gyro/built-in.o drivers/input/sensors/gyro/l3g4200d.o drivers/input/sensors/gyro/l3g20d.o drivers/input/sensors/gyro/ewtsa.o drivers/input/sensors/gyro/mpu6880_gyro.o drivers/input/sensors/gyro/lsm330_gyro.o 

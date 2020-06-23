@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/legacy/built-in.o :=  rm -f drivers/usb/gadget/legacy/built-in.o; ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ar rcsD drivers/usb/gadget/legacy/built-in.o

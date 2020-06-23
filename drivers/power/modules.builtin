@@ -1,0 +1,4 @@
+kernel/drivers/power/test_power.ko
+kernel/drivers/power/bq25700_charger.ko
+kernel/drivers/power/avs/rockchip-io-domain.ko
+kernel/drivers/power/reset/reboot-mode.ko

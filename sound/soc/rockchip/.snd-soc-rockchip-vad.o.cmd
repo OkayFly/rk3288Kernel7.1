@@ -1,0 +1,1 @@
+cmd_sound/soc/rockchip/snd-soc-rockchip-vad.o := ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o sound/soc/rockchip/snd-soc-rockchip-vad.o sound/soc/rockchip/rockchip_vad.o sound/soc/rockchip/vad_preprocess_arm.o 

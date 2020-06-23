@@ -1,0 +1,1 @@
+cmd_sound/core/oss/built-in.o :=  ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o sound/core/oss/built-in.o sound/core/oss/snd-mixer-oss.o sound/core/oss/snd-pcm-oss.o 

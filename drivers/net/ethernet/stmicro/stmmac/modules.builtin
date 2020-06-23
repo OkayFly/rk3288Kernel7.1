@@ -1,0 +1,3 @@
+kernel/drivers/net/ethernet/stmicro/stmmac/stmmac.ko
+kernel/drivers/net/ethernet/stmicro/stmmac/stmmac-platform.ko
+kernel/drivers/net/ethernet/stmicro/stmmac/dwmac-rk.ko

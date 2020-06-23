@@ -1,0 +1,2 @@
+kernel/drivers/devfreq/event/rockchip-dfi.ko
+kernel/drivers/devfreq/event/rockchip-nocp.ko

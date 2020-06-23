@@ -1,0 +1,1 @@
+cmd_drivers/usb/class/built-in.o :=  ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/usb/class/built-in.o drivers/usb/class/cdc-acm.o drivers/usb/class/usblp.o drivers/usb/class/cdc-wdm.o 

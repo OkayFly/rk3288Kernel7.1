@@ -1,0 +1,1 @@
+cmd_sound/soc/rockchip/snd-soc-rockchip-i2s.o := ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o sound/soc/rockchip/snd-soc-rockchip-i2s.o sound/soc/rockchip/rockchip_i2s.o 

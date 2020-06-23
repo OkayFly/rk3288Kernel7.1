@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/omap2/dss/built-in.o :=  rm -f drivers/video/fbdev/omap2/dss/built-in.o; ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ar rcsD drivers/video/fbdev/omap2/dss/built-in.o

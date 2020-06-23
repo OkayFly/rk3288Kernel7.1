@@ -1,0 +1,1 @@
+cmd_drivers/usb/host/built-in.o :=  ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/usb/host/built-in.o drivers/usb/host/ehci-hcd.o drivers/usb/host/ehci-platform.o drivers/usb/host/ohci-hcd.o drivers/usb/host/ohci-platform.o 

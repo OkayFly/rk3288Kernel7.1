@@ -1,0 +1,17 @@
+kernel/sound/soc/codecs/snd-soc-da7219.ko
+kernel/sound/soc/codecs/snd-soc-bt-sco.ko
+kernel/sound/soc/codecs/snd-soc-es8316.ko
+kernel/sound/soc/codecs/snd-soc-es8323.ko
+kernel/sound/soc/codecs/snd-soc-gva-codec.ko
+kernel/sound/soc/codecs/snd-soc-max98090.ko
+kernel/sound/soc/codecs/snd-soc-hdmi-codec.ko
+kernel/sound/soc/codecs/snd-soc-rk312x.ko
+kernel/sound/soc/codecs/snd-soc-rk3228.ko
+kernel/sound/soc/codecs/snd-soc-rl6231.ko
+kernel/sound/soc/codecs/snd-soc-rt5640.ko
+kernel/sound/soc/codecs/snd-soc-rt5645.ko
+kernel/sound/soc/codecs/snd-soc-rt5651.ko
+kernel/sound/soc/codecs/snd-soc-spdif-rx.ko
+kernel/sound/soc/codecs/snd-soc-spdif-tx.ko
+kernel/sound/soc/codecs/snd-soc-tc358749x.ko
+kernel/sound/soc/codecs/snd-soc-ts3a227e.ko

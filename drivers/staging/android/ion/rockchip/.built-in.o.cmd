@@ -1,0 +1,1 @@
+cmd_drivers/staging/android/ion/rockchip/built-in.o :=  ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/staging/android/ion/rockchip/built-in.o drivers/staging/android/ion/rockchip/rockchip_ion.o 

@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/bridge/analogix/analogix_dp.o := ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/gpu/drm/bridge/analogix/analogix_dp.o drivers/gpu/drm/bridge/analogix/analogix_dp_core.o drivers/gpu/drm/bridge/analogix/analogix_dp_reg.o 

@@ -1,0 +1,1 @@
+cmd_drivers/devfreq/event/built-in.o :=  ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/devfreq/event/built-in.o drivers/devfreq/event/rockchip-dfi.o drivers/devfreq/event/rockchip-nocp.o 

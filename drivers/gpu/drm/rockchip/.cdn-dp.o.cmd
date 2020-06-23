@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/rockchip/cdn-dp.o := ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/gpu/drm/rockchip/cdn-dp.o drivers/gpu/drm/rockchip/cdn-dp-core.o drivers/gpu/drm/rockchip/cdn-dp-reg.o 

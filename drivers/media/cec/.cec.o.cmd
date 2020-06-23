@@ -1,0 +1,1 @@
+cmd_drivers/media/cec/cec.o := ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/media/cec/cec.o drivers/media/cec/cec-core.o drivers/media/cec/cec-adap.o drivers/media/cec/cec-api.o drivers/media/cec/cec-edid.o drivers/media/cec/cec-notifier.o 

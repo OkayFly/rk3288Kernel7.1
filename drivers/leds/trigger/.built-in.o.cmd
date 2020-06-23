@@ -1,0 +1,1 @@
+cmd_drivers/leds/trigger/built-in.o :=  ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/leds/trigger/built-in.o drivers/leds/trigger/ledtrig-backlight.o drivers/leds/trigger/ledtrig-default-on.o 

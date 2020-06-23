@@ -1,0 +1,1 @@
+cmd_drivers/iommu/built-in.o :=  ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/iommu/built-in.o drivers/iommu/iommu.o drivers/iommu/iommu-traces.o drivers/iommu/iommu-sysfs.o drivers/iommu/dma-iommu.o drivers/iommu/dma-iommu-ops.o drivers/iommu/iova.o drivers/iommu/of_iommu.o drivers/iommu/rockchip-iommu.o 

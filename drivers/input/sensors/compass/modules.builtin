@@ -1,0 +1,2 @@
+kernel/drivers/input/sensors/compass/ak8975.ko
+kernel/drivers/input/sensors/compass/ak8963.ko

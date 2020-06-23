@@ -1,0 +1,5 @@
+kernel/drivers/gpu/drm/rockchip/rk618/rk618_output.ko
+kernel/drivers/gpu/drm/rockchip/rk618/rk618_scaler.ko
+kernel/drivers/gpu/drm/rockchip/rk618/rk618_vif.ko
+kernel/drivers/gpu/drm/rockchip/rk618/rk618_dither.ko
+kernel/drivers/gpu/drm/rockchip/rk618/rk618_lvds.ko

@@ -1,0 +1,1 @@
+cmd_security/integrity/integrity.o := ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o security/integrity/integrity.o security/integrity/iint.o security/integrity/integrity_audit.o 

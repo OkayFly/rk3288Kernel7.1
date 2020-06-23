@@ -1,0 +1,3 @@
+kernel/drivers/headset_observe/rockchip_headset_core.ko
+kernel/drivers/headset_observe/rk_headset.ko
+kernel/drivers/headset_observe/rk_headset_irq_hook_adc.ko

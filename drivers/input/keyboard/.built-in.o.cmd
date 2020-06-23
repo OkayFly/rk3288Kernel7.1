@@ -1,0 +1,1 @@
+cmd_drivers/input/keyboard/built-in.o :=  ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/input/keyboard/built-in.o drivers/input/keyboard/adc-keys.o drivers/input/keyboard/gpio_keys.o drivers/input/keyboard/rk_keys.o 

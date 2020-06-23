@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/stmicro/stmmac/stmmac-platform.o := ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/net/ethernet/stmicro/stmmac/stmmac-platform.o drivers/net/ethernet/stmicro/stmmac/stmmac_platform.o 

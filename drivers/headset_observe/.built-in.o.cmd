@@ -1,0 +1,1 @@
+cmd_drivers/headset_observe/built-in.o :=  ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/headset_observe/built-in.o drivers/headset_observe/rockchip_headset_core.o drivers/headset_observe/rk_headset.o drivers/headset_observe/rk_headset_irq_hook_adc.o 

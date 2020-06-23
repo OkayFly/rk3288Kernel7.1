@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/rockchip_wlan/rtl8723bs/8723bs.ko := ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/wireless/rockchip_wlan/rtl8723bs/8723bs.ko drivers/net/wireless/rockchip_wlan/rtl8723bs/8723bs.o drivers/net/wireless/rockchip_wlan/rtl8723bs/8723bs.mod.o

@@ -1,0 +1,9 @@
+kernel/drivers/media/video/rk_camsys/camsys_drv.ko
+kernel/drivers/media/video/rk_camsys/camsys_marvin.ko
+kernel/drivers/media/video/rk_camsys/camsys_mipicsi_phy.ko
+kernel/drivers/media/video/rk_camsys/camsys_soc_priv.ko
+kernel/drivers/media/video/rk_camsys/camsys_soc_rk3288.ko
+kernel/drivers/media/video/rk_camsys/camsys_soc_rk3368.ko
+kernel/drivers/media/video/rk_camsys/camsys_soc_rk3366.ko
+kernel/drivers/media/video/rk_camsys/camsys_soc_rk3399.ko
+kernel/drivers/media/video/rk_camsys/camsys_soc_rk3326.ko

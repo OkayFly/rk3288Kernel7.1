@@ -1,0 +1,1 @@
+cmd_drivers/pps/built-in.o :=  ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/pps/built-in.o drivers/pps/pps_core.o drivers/pps/clients/built-in.o drivers/pps/generators/built-in.o 

@@ -1,0 +1,2 @@
+kernel/drivers/gpu/arm/mali400/mali/mali.ko
+kernel/drivers/gpu/arm/midgard/midgard_kbase.ko

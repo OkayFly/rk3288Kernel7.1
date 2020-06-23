@@ -1,0 +1,1 @@
+cmd_sound/pci/echoaudio/built-in.o :=  rm -f sound/pci/echoaudio/built-in.o; ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ar rcsD sound/pci/echoaudio/built-in.o

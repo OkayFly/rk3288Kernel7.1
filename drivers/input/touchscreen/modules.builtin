@@ -1,0 +1,10 @@
+kernel/drivers/input/touchscreen/of_touchscreen.ko
+kernel/drivers/input/touchscreen/cy8c_touchpad.ko
+kernel/drivers/input/touchscreen/gslx680a.ko
+kernel/drivers/input/touchscreen/gsl_point_id.ko
+kernel/drivers/input/touchscreen/gsl_point_id.ko
+kernel/drivers/input/touchscreen/gslx680_firefly.ko
+kernel/drivers/input/touchscreen/gsl_point_id.ko
+kernel/drivers/input/touchscreen/gsl3673.ko
+kernel/drivers/input/touchscreen/gsl_point_id.ko
+kernel/drivers/input/touchscreen/vtl_ts/vtl_ts_ct36x.ko

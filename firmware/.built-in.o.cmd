@@ -1,0 +1,1 @@
+cmd_firmware/built-in.o :=  ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o firmware/built-in.o firmware/kaweth/new_code.bin.gen.o firmware/kaweth/trigger_code.bin.gen.o firmware/kaweth/new_code_fix.bin.gen.o firmware/kaweth/trigger_code_fix.bin.gen.o 

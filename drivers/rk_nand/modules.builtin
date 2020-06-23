@@ -1,0 +1,3 @@
+kernel/drivers/rk_nand/rk_ftl.ko
+kernel/drivers/rk_nand/rk_nand_base.ko
+kernel/drivers/rk_nand/rk_nand_blk.ko

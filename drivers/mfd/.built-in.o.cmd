@@ -1,0 +1,1 @@
+cmd_drivers/mfd/built-in.o :=  ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/mfd/built-in.o drivers/mfd/mfd-core.o drivers/mfd/rk808.o drivers/mfd/syscon.o 

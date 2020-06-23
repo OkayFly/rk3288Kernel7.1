@@ -1,0 +1,1 @@
+cmd_sound/soc/generic/built-in.o :=  ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o sound/soc/generic/built-in.o sound/soc/generic/snd-soc-simple-card.o 

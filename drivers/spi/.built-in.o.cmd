@@ -1,0 +1,1 @@
+cmd_drivers/spi/built-in.o :=  ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/spi/built-in.o drivers/spi/spi.o drivers/spi/spidev.o drivers/spi/spi-rockchip.o drivers/spi/spi-rockchip-test.o 

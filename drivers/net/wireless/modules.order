@@ -1,0 +1,10 @@
+kernel/drivers/net/wireless/rockchip_wlan/rkwifi/bcmdhd/bcmdhd.ko
+kernel/drivers/net/wireless/rockchip_wlan/rtl8188eu/8188eu.ko
+kernel/drivers/net/wireless/rockchip_wlan/rtl8188fu/8188fu.ko
+kernel/drivers/net/wireless/rockchip_wlan/rtl8189es/8189es.ko
+kernel/drivers/net/wireless/rockchip_wlan/rtl8189fs/8189fs.ko
+kernel/drivers/net/wireless/rockchip_wlan/rtl8723bs/8723bs.ko
+kernel/drivers/net/wireless/rockchip_wlan/rtl8723bu/8723bu.ko
+kernel/drivers/net/wireless/rockchip_wlan/rtl8723cs/8723cs.ko
+kernel/drivers/net/wireless/rockchip_wlan/rtl8723ds/8723ds.ko
+kernel/drivers/net/wireless/rockchip_wlan/ssv6xxx/ssv6051.ko

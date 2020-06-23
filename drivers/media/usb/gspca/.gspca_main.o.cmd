@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/gspca/gspca_main.o := ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/media/usb/gspca/gspca_main.o drivers/media/usb/gspca/gspca.o drivers/media/usb/gspca/autogain_functions.o 

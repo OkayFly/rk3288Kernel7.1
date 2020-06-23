@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/vtl_ts/vtl_ts_ct36x.o := ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/input/touchscreen/vtl_ts/vtl_ts_ct36x.o drivers/input/touchscreen/vtl_ts/vtl_ts.o drivers/input/touchscreen/vtl_ts/chip.o drivers/input/touchscreen/vtl_ts/apk.o 

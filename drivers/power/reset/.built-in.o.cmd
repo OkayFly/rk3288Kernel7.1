@@ -1,0 +1,1 @@
+cmd_drivers/power/reset/built-in.o :=  ./../prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androidkernel-ld -EL    -r -o drivers/power/reset/built-in.o drivers/power/reset/reboot-mode.o drivers/power/reset/syscon-reboot-mode.o 
